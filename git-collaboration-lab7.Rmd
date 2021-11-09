@@ -11,3 +11,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Hi Narjes! I like your phone case. :)
 Hi katie I like your case too! :)
+
+```{r task1}
+plot(cars)
+```
+
+```{r task2}
+
+```
+
+
