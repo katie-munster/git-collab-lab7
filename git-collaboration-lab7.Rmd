@@ -13,7 +13,9 @@ Hi Narjes! I like your phone case. :)
 Hi katie I like your case too! :)
 
 ```{r task1}
-plot(cars$speed)
+
+mean_value <- mean(cars$dist)
+
 ```
 
 ```{r task2}
