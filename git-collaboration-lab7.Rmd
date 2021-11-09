@@ -17,7 +17,8 @@ plot(cars)
 ```
 
 ```{r task2}
-
+numbers = c(1,2,3)
+numbers
 ```
 
 
